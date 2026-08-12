@@ -1,0 +1,13 @@
+{
+  "name": "miss-you-lover-server",
+  "version": "1.0.0",
+  "description": "WebSocket 消息转发服务 - 想你 App 后端",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
